@@ -23,7 +23,7 @@ Thanks for your visiting! 👍
 
 ## Preview
 
-<img src=https://res.cloudinary.com/developerteam/image/upload/v1607124101/hAnkooApp/0-splash_screen_zt2rx3.png width="100" alt="Splash-Screen">
+<img src=https://res.cloudinary.com/developerteam/image/upload/v1607124101/hAnkooApp/0-splash_screen_zt2rx3.png width="300" alt="Splash-Screen">
 </br>
 <img src=https://res.cloudinary.com/developerteam/image/upload/v1607124110/hAnkooApp/1-login_screen_apcet9.png width="300" alt="Login-Screen">
 </br>
