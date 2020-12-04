@@ -23,20 +23,33 @@ Thanks for your visiting! 👍
 
 ## Preview
 
-![Splash-Screen](https://res.cloudinary.com/developerteam/image/upload/v1607124101/hAnkooApp/0-splash_screen_zt2rx3.png)
-![Login-Screen](https://res.cloudinary.com/developerteam/image/upload/v1607124110/hAnkooApp/1-login_screen_apcet9.png)
-![Home-Screen](https://res.cloudinary.com/developerteam/image/upload/v1607124108/hAnkooApp/2-home_screen_lodzw5.png)
-![Filter-Screen](https://res.cloudinary.com/developerteam/image/upload/v1607124109/hAnkooApp/3-filter_screen_ppffds.png)
-![Options-Screen](https://res.cloudinary.com/developerteam/image/upload/v1607124106/hAnkooApp/4-options_screen_hkt6yt.png)
-![Query-Screen](https://res.cloudinary.com/developerteam/image/upload/v1607124105/hAnkooApp/5-query_screen_utojel.png)
-![Sales-Screen](https://res.cloudinary.com/developerteam/image/upload/v1607124105/hAnkooApp/6-sales_screen_av2y9v.png)
-![Products-Screen](https://res.cloudinary.com/developerteam/image/upload/v1607124106/hAnkooApp/7-products_screen_czhirr.png)
-![Sales-Screen-Fully](https://res.cloudinary.com/developerteam/image/upload/v1607124103/hAnkooApp/8-sales_screen_full_mxib9f.png)
-![Popup-Sales-Screen](https://res.cloudinary.com/developerteam/image/upload/v1607124108/hAnkooApp/9-poup_sales_message_l8qtyc.png)
-![Pay-Screen](https://res.cloudinary.com/developerteam/image/upload/v1607124100/hAnkooApp/10-pay_screen_fpl2oa.png)
-![Currency-Pay-Screen](https://res.cloudinary.com/developerteam/image/upload/v1607124102/hAnkooApp/11-currency_pay_jbvqiy.png)
-![Popup-Pay-Screen](https://res.cloudinary.com/developerteam/image/upload/v1607124100/hAnkooApp/12-poup_pay_message_mz1hj1.png)
-![Logout-Screen](https://res.cloudinary.com/developerteam/image/upload/v1607124106/hAnkooApp/13-logout_screen_bw2dnv.png)
+<img src=https://res.cloudinary.com/developerteam/image/upload/v1607124101/hAnkooApp/0-splash_screen_zt2rx3.png width="100" alt="Splash-Screen">
+</br>
+<img src=https://res.cloudinary.com/developerteam/image/upload/v1607124110/hAnkooApp/1-login_screen_apcet9.png width="300" alt="Login-Screen">
+</br>
+<img src=https://res.cloudinary.com/developerteam/image/upload/v1607124108/hAnkooApp/2-home_screen_lodzw5.png width="300" alt="Home-Screen">
+</br>
+<img src=https://res.cloudinary.com/developerteam/image/upload/v1607124109/hAnkooApp/3-filter_screen_ppffds.png width="300" alt="Filter-Screen">
+</br>
+<img src=https://res.cloudinary.com/developerteam/image/upload/v1607124106/hAnkooApp/4-options_screen_hkt6yt.png width="300" alt="Options-Screen">
+</br>
+<img src=https://res.cloudinary.com/developerteam/image/upload/v1607124105/hAnkooApp/5-query_screen_utojel.png width="300" alt="Query-Screen">
+</br>
+<img src=https://res.cloudinary.com/developerteam/image/upload/v1607124105/hAnkooApp/6-sales_screen_av2y9v.png width="300" alt="Sales-Screen">
+</br>
+<img src=https://res.cloudinary.com/developerteam/image/upload/v1607124106/hAnkooApp/7-products_screen_czhirr.png width="300" alt="Products-Screen">
+</br>
+<img src=https://res.cloudinary.com/developerteam/image/upload/v1607124103/hAnkooApp/8-sales_screen_full_mxib9f.png width="300" alt="Sales-Screen">
+</br>
+<img src=https://res.cloudinary.com/developerteam/image/upload/v1607124108/hAnkooApp/9-poup_sales_message_l8qtyc.png width="300" alt="Popup-Sales">
+</br>
+<img src=https://res.cloudinary.com/developerteam/image/upload/v1607124100/hAnkooApp/10-pay_screen_fpl2oa.png width="300" alt="Pay-Screen">
+</br>
+<img src=https://res.cloudinary.com/developerteam/image/upload/v1607124102/hAnkooApp/11-currency_pay_jbvqiy.png width="300" alt="Currency-Pay">
+</br>
+<img src=https://res.cloudinary.com/developerteam/image/upload/v1607124100/hAnkooApp/12-poup_pay_message_mz1hj1.png width="300" alt="Popup-Pay">
+</br>
+<img src=https://res.cloudinary.com/developerteam/image/upload/v1607124106/hAnkooApp/13-logout_screen_bw2dnv.png width="300" alt="Logout-Screen">
 
 ## Have questions?
 
